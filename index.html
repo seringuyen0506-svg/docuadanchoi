@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Đồ Của Dân Chơi — Shop hàng độc, tư vấn nhanh qua Zalo</title>
+  <meta name="description" content="Đồ Của Dân Chơi: Sản phẩm hàng độc, đồ chơi sưu tầm, phụ kiện cá tính. Bấm Mua để tư vấn nhanh qua Zalo.">
+  <meta property="og:title" content="Đồ Của Dân Chơi">
+  <meta property="og:description" content="Sản phẩm hàng độc, đồ chơi sưu tầm, phụ kiện cá tính. Bấm Mua để tư vấn nhanh qua Zalo.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/og-cover.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="images/favicon.png">
+  <link rel="preload" href="style.css" as="style">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="logo">Đồ Của Dân Chơi</h1>
+      <nav class="nav">
+        <a href="#products">Sản phẩm</a>
+        <a href="#contact">Liên hệ</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <div>
+          <h2>Hàng độc • Chất • Nhanh</h2>
+          <p>Chọn món bạn thích, nhấn <b>Mua qua Zalo</b> để được tư vấn ngay. Tất cả hình ảnh, mô tả và video đều minh bạch.</p>
+          <a class="btn primary" href="https://zalo.me/0393414926" target="_blank" rel="noopener">Chat Zalo ngay</a>
+        </div>
+        <img src="images/og-cover.jpg" alt="Đồ Của Dân Chơi" loading="lazy" class="hero-cover">
+      </div>
+    </section>
+
+    <section class="toolbar wrap">
+      <label for="q" class="sr-only">Tìm sản phẩm</label>
+      <input id="q" type="search" placeholder="Tìm theo tên / mô tả..." autocomplete="off">
+      <select id="sort">
+        <option value="default">Sắp xếp: Mặc định</option>
+        <option value="price-asc">Giá ↑</option>
+        <option value="price-desc">Giá ↓</option>
+      </select>
+    </section>
+
+    <section id="products" class="product-list wrap" aria-live="polite"></section>
+
+    <section id="contact" class="contact wrap">
+      <h2>Liên hệ</h2>
+      <p>Nếu bạn cần tư vấn nhanh, bấm nút dưới đây để chat qua Zalo:</p>
+      <a class="btn primary" href="https://zalo.me/0393414926" target="_blank" rel="noopener">Mở Zalo</a>
+      <p class="note">* Một số sản phẩm có điều kiện mua bán theo quy định địa phương. Vui lòng chat Zalo để được tư vấn chi tiết.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <small>© <span id="year"></span> Đồ Của Dân Chơi — All rights reserved.</small>
+    </div>
+  </footer>
+
+  <!-- Modal -->
+  <div id="modal" class="modal" aria-hidden="true">
+    <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button id="closeModal" class="close" aria-label="Đóng (Esc)">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script defer src="products.js"></script>
+  <script defer src="app.js"></script>
+</body>
+</html>
