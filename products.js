@@ -53,7 +53,7 @@ const PRODUCTS = [
       "images/katana-luoi-bong-tron-9.jpg",
       "images/katana-luoi-bong-tron-10.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
+    videos: [ "https://www.youtube.com/embed/bLqJ8YjevsE" ],
     description: "Katana lưỡi trơn bóng dài 108cm",
     info: "Lưỡi dày 7ly , Thép cacbon bóng trơn , Vỏ gỗ, Chống han rỉ",
     zalo: "https://zalo.me/0393414926"
