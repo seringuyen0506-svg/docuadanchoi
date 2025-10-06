@@ -43,7 +43,7 @@ const PRODUCTS = [
     price: null, currency: "VND",
     images: [
       "images/katana-luoi-bong-tron-1.jpg",
-      "images/katana-luoi-bong-tron-2.jpg"
+      "images/katana-luoi-bong-tron-2.jpg",
       "images/katana-luoi-bong-tron-3.jpg",
       "images/katana-luoi-bong-tron-4.jpg"
     ],
