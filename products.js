@@ -138,7 +138,7 @@ const PRODUCTS = [
       "images/xit-cay-110ml-nato-1.jpg",
       "images/xit-cay-110ml-nato-2.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
+    videos: [ "https://www.youtube.com/embed/SGMwXfwJCwg" ],
     description: "Nhỏ gọn , dễ dùng  gây cay choáng khiến đối phương khóc thét khi bị dính chưởng phạm vi 2-3 mét - Hạn sd 5 năm",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: 17cm   •    Dung tích 110ml   •    Xịt khoảng : 4-50 lần tuỳ theo mức độ sử dụng   •    Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì  Lưu ý : Tránh xa tầm tay trẻ em , không xịt trong phòng kín.",
     zalo: "https://zalo.me/0393414926"
@@ -151,7 +151,7 @@ const PRODUCTS = [
       "images/xit-cay-to-takedow-1.jpg",
       "images/xit-cay-to-takedow-2.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
+    videos: [ "https://www.youtube.com/embed/G3CTJHSf2VQ" ],
     description: "Nhỏ gọn , dễ dùng  gây cay choáng khiến đối phương khóc thét khi bị dính chưởng phạm vi 5-7 mét - Hạn sd 5 năm",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: 25cm   •    Dung tích : 470ml   •    Xịt khoảng : 4-50 lần tuỳ theo mức độ sử dụng   • Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì   Lưu ý : Tránh xa tầm tay trẻ em , không xịt trong phòng kín.",
     zalo: "https://zalo.me/0393414926"
