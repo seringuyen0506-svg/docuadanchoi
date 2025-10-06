@@ -1,7 +1,30 @@
 // Mỗi sản phẩm đều có images[] (nhiều ảnh) và videos[] (YouTube embed)
 // Thay đường dẫn ảnh & video theo thực tế bạn có.
 const PRODUCTS = [
-
+  { // 1) Katana rồng thường
+    id: "katana-rong-thuong",
+    name: "Katana rồng thường",
+    price: null, currency: "VND",
+    images: [
+      "images/katana-rong-thuong-1.jpg",
+      "images/katana-rong-thuong-2.jpg",
+      "images/katana-rong-thuong-3.jpg",
+      "images/katana-rong-thuong-4.jpg",
+      "images/katana-rong-thuong-5.jpg",
+      "images/katana-rong-thuong-6.jpg",
+      "images/katana-rong-thuong-7.jpg",
+      "images/katana-rong-thuong-8.jpg",
+      "images/katana-rong-thuong-9.jpg",
+      "images/katana-rong-thuong-10.jpg",
+      "images/katana-rong-thuong-11.jpg",
+      "images/katana-rong-thuong-12.jpg",
+      
+    ],
+    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
+    description: "Katana bản rồng 103cm",
+    info: "Lưỡi dày 5,5 ly, Thép mangan có vân sóng, Vỏ gỗ, Chống han rỉ, Có : 57cm - 80cm - 103cm",
+    zalo: "https://zalo.me/0393414926"
+  },
   { // 2) Katana lá tre
     id: "katana-la-tre",
     name: "Katana lá tre",
@@ -42,7 +65,7 @@ const PRODUCTS = [
     images: [
       "images/kiem-han.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/8EQVSSTX-GE" ],
+    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
     description: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
     info: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
     zalo: "https://zalo.me/0393414926"
@@ -115,7 +138,7 @@ const PRODUCTS = [
       "images/xit-cay-110ml-nato-1.jpg",
       "images/xit-cay-110ml-nato-2.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/SGMwXfwJCwg" ],
+    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
     description: "Nhỏ gọn , dễ dùng  gây cay choáng khiến đối phương khóc thét khi bị dính chưởng phạm vi 2-3 mét - Hạn sd 5 năm",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: 17cm   •    Dung tích 110ml   •    Xịt khoảng : 4-50 lần tuỳ theo mức độ sử dụng   •    Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì  Lưu ý : Tránh xa tầm tay trẻ em , không xịt trong phòng kín.",
     zalo: "https://zalo.me/0393414926"
@@ -128,7 +151,7 @@ const PRODUCTS = [
       "images/xit-cay-to-takedow-1.jpg",
       "images/xit-cay-to-takedow-2.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/G3CTJHSf2VQ" ],
+    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
     description: "Nhỏ gọn , dễ dùng  gây cay choáng khiến đối phương khóc thét khi bị dính chưởng phạm vi 5-7 mét - Hạn sd 5 năm",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: 25cm   •    Dung tích : 470ml   •    Xịt khoảng : 4-50 lần tuỳ theo mức độ sử dụng   • Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì   Lưu ý : Tránh xa tầm tay trẻ em , không xịt trong phòng kín.",
     zalo: "https://zalo.me/0393414926"
@@ -154,7 +177,7 @@ const PRODUCTS = [
     images: [
       "images/baton-asp-shy.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/xx913RYQ6II" ],
+    videos: [ "https://www.youtube.com/embed/dlBBn1gCxN8" ],
     description: "Baton ASP -SHY.",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: thu 25 kéo ra 65cm   •    Chất liệu : Hợp kim thép không rỉ   •    Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì   •    Thiết kế chắc chắn uy lực - bao test gạch đá cờ lê.",
     zalo: "https://zalo.me/0393414926"
