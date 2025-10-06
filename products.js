@@ -65,7 +65,7 @@ const PRODUCTS = [
     images: [
       "images/kiem-han.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
+    videos: [ "https://www.youtube.com/embed/8EQVSSTX-GE" ],
     description: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
     info: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
     zalo: "https://zalo.me/0393414926"
