@@ -2,7 +2,6 @@
 // Thay đường dẫn ảnh & video theo thực tế bạn có.
 const PRODUCTS = [
 
-  },
   { // 2) Katana lá tre
     id: "katana-la-tre",
     name: "Katana lá tre",
