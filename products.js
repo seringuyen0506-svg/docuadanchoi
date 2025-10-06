@@ -113,7 +113,7 @@ const PRODUCTS = [
     images: [
       "images/dui-cui-x10-1.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
+    videos: [ "https://www.youtube.com/embed/QCNxcofSVWw" ],
     description: "Vừa đèn vừa gậy vừa chích điện ( Vỏ làm từ hợp kim nhôm )",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: thu 50 kéo ra 58cm  •   Lượng điện áp: 110.000KV  •   Cổng sạc: 220v  •   Thời gian sạc: từ 1 đến 2 tiếng   •    Thời gian dùng sản phẩm: 4 đến 8 ngày   •    Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì   •     Thiết kế chắc chắn uy lực  •   Dí đối phương 2-3s là XỈU",
     zalo: "https://zalo.me/0393414926"
