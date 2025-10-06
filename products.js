@@ -6,7 +6,6 @@ const PRODUCTS = [
     name: "Katana rồng thường",
     price: null, currency: "VND",
     images: [
-      "images/katana-rong-thuong-1.jpg",
       "images/katana-rong-thuong-2.jpg",
       "images/katana-rong-thuong-3.jpg",
       "images/katana-rong-thuong-4.jpg",
