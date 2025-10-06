@@ -32,7 +32,7 @@ const PRODUCTS = [
     images: [
       "images/katana-la-tre-1.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
+    videos: [ "https://www.youtube.com/embed/b2LpJEmA6xM" ],
     description: "Katana lá tre bản dài 57cm -85cm -105cm",
     info: "Lưỡi dày 7ly, Thép cacbon bóng có vân sóng, Vỏ gỗ, Chống han rỉ",
     zalo: "https://zalo.me/0393414926"
