@@ -21,8 +21,8 @@ const PRODUCTS = [
       
     ],
     videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
-    description: "Katana rồng bản thường, phù hợp sưu tầm/trưng bày, hoàn thiện cơ bản.",
-    info: "Dài ~100cm • Lưỡi thép không gỉ • Bao kiếm giả gỗ • Cán quấn vải",
+    description: "Katana bản rồng 103cm",
+    info: "Lưỡi dày 5,5 ly, Thép mangan có vân sóng, Vỏ gỗ, Chống han rỉ, Có : 57cm - 80cm - 103cm",
     zalo: "https://zalo.me/0393414926"
   },
   { // 2) Katana lá tre
@@ -30,12 +30,11 @@ const PRODUCTS = [
     name: "Katana lá tre",
     price: null, currency: "VND",
     images: [
-      "images/katana-la-tre-1.jpg",
-      "images/katana-la-tre-2.jpg"
+      "images/katana-la-tre-1.jpg"
     ],
     videos: [ "https://www.youtube.com/embed/oHg5SJYRHA0" ],
-    description: "Thiết kế lưỡi mô phỏng lá tre, tạo hình lạ mắt để trưng bày/cosplay.",
-    info: "Dài ~103cm • Lưỡi thép mài bóng • Tsuba phong cách • Cán quấn dây",
+    description: "Katana lá tre bản dài 57cm -85cm -105cm",
+    info: "Lưỡi dày 7ly, Thép cacbon bóng có vân sóng, Vỏ gỗ, Chống han rỉ",
     zalo: "https://zalo.me/0393414926"
   },
   { // 3) Katana lưỡi bóng trơn
@@ -45,10 +44,12 @@ const PRODUCTS = [
     images: [
       "images/katana-luoi-bong-tron-1.jpg",
       "images/katana-luoi-bong-tron-2.jpg"
+      "images/katana-luoi-bong-tron-3.jpg",
+      "images/katana-luoi-bong-tron-4.jpg"
     ],
     videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
-    description: "Bản lưỡi bóng trơn tối giản, dễ phối cảnh trưng bày.",
-    info: "Dài ~104cm • Lưỡi thép đánh bóng • Bao gỗ sơn bóng • Cán bọc vải",
+    description: "Katana lưỡi trơn bóng dài 108cm",
+    info: "Lưỡi dày 7ly , Thép cacbon bóng trơn , Vỏ gỗ, Chống han rỉ",
     zalo: "https://zalo.me/0393414926"
   },
   { // 4) Chích điện 928 cờ mỹ
