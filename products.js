@@ -1,28 +1,7 @@
 // Mỗi sản phẩm đều có images[] (nhiều ảnh) và videos[] (YouTube embed)
 // Thay đường dẫn ảnh & video theo thực tế bạn có.
 const PRODUCTS = [
-  { // 1) Katana rồng thường
-    id: "katana-rong-thuong",
-    name: "Katana rồng thường",
-    price: null, currency: "VND",
-    images: [
-      "images/katana-rong-thuong-2.jpg",
-      "images/katana-rong-thuong-3.jpg",
-      "images/katana-rong-thuong-4.jpg",
-      "images/katana-rong-thuong-5.jpg",
-      "images/katana-rong-thuong-6.jpg",
-      "images/katana-rong-thuong-7.jpg",
-      "images/katana-rong-thuong-8.jpg",
-      "images/katana-rong-thuong-9.jpg",
-      "images/katana-rong-thuong-10.jpg",
-      "images/katana-rong-thuong-11.jpg",
-      "images/katana-rong-thuong-12.jpg",
-      
-    ],
-    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
-    description: "Katana bản rồng 103cm",
-    info: "Lưỡi dày 5,5 ly, Thép mangan có vân sóng, Vỏ gỗ, Chống han rỉ, Có : 57cm - 80cm - 103cm",
-    zalo: "https://zalo.me/0393414926"
+
   },
   { // 2) Katana lá tre
     id: "katana-la-tre",
