@@ -177,7 +177,7 @@ const PRODUCTS = [
     images: [
       "images/baton-asp-shy.jpg"
     ],
-    videos: [ "https://www.youtube.com/embed/dlBBn1gCxN8" ],
+    videos: [ "https://www.youtube.com/embed/xx913RYQ6II" ],
     description: "Baton ASP -SHY.",
     info: "Thông số kỹ thuật   •    Độ dài sản phẩm: thu 25 kéo ra 65cm   •    Chất liệu : Hợp kim thép không rỉ   •    Xuất xứ: made in USA, hàng chính hãng nhập khẩu từ Hoa Kì   •    Thiết kế chắc chắn uy lực - bao test gạch đá cờ lê.",
     zalo: "https://zalo.me/0393414926"
