@@ -45,11 +45,29 @@ const PRODUCTS = [
       "images/katana-luoi-bong-tron-1.jpg",
       "images/katana-luoi-bong-tron-2.jpg",
       "images/katana-luoi-bong-tron-3.jpg",
-      "images/katana-luoi-bong-tron-4.jpg"
+      "images/katana-luoi-bong-tron-4.jpg",
+      "images/katana-luoi-bong-tron-5.jpg",
+      "images/katana-luoi-bong-tron-6.jpg",
+      "images/katana-luoi-bong-tron-7.jpg",
+      "images/katana-luoi-bong-tron-8.jpg",
+      "images/katana-luoi-bong-tron-9.jpg",
+      "images/katana-luoi-bong-tron-10.jpg"
     ],
     videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
     description: "Katana lưỡi trơn bóng dài 108cm",
     info: "Lưỡi dày 7ly , Thép cacbon bóng trơn , Vỏ gỗ, Chống han rỉ",
+    zalo: "https://zalo.me/0393414926"
+  },
+  { // 3) Kiếm hán lưỡi thẳng
+    id: "kiem-han",
+    name: "Kiếm hán lưỡi thẳng",
+    price: null, currency: "VND",
+    images: [
+      "images/kiem-han.jpg"
+    ],
+    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
+    description: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
+    info: "Kiếm Hán lưỡi thẳng dài : 103cm - 110cm",
     zalo: "https://zalo.me/0393414926"
   },
   { // 4) Chích điện 928 cờ mỹ
