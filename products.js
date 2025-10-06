@@ -20,7 +20,7 @@ const PRODUCTS = [
       "images/katana-rong-thuong-12.jpg",
       
     ],
-    videos: [ "https://www.youtube.com/embed/dQw4w9WgXcQ" ],
+    videos: [ "https://www.youtube.com/embed/jp9VToXZe1k" ],
     description: "Katana bản rồng 103cm",
     info: "Lưỡi dày 5,5 ly, Thép mangan có vân sóng, Vỏ gỗ, Chống han rỉ, Có : 57cm - 80cm - 103cm",
     zalo: "https://zalo.me/0393414926"
